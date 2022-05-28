@@ -1,5 +1,8 @@
 # signifyd-project
-Python program to read a file of client transactions and trace purchase history for fraud. Code can scale for much larger inputs with minimal refactoring.
+Python program to read a file of client transactions and trace purchase history for fraud. 
+
+This code can scale for much larger inputs with minimal refactoring.
+
 <br />
 
 ### Input
