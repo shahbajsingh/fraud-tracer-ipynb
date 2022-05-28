@@ -1,6 +1,6 @@
 2015-01-01,joe@signifyd.com,NO_HISTORY,
-2015-02-10,joe@signifyd.com,FRAUD_HISTORY:,1.0
+2015-02-10,joe@signifyd.com,UNCONFIRMED_HISTORY:,1.0
 2015-02-14,fraudster@fraud.com,FRAUD_HISTORY:,2.0
-2015-03-15,joe@signifyd.com,FRAUD_HISTORY:,2.0
-2015-05-01,joe@signifyd.com,FRAUD_HISTORY:,1.0
-2015-10-01,joe@signifyd.com,FRAUD_HISTORY:,3.0
+2015-03-15,joe@signifyd.com,UNCONFIRMED_HISTORY:,2.0
+2015-05-01,joe@signifyd.com,GOOD_HISTORY:,1.0
+2015-10-01,joe@signifyd.com,GOOD_HISTORY:,3.0
