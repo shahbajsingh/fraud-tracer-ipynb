@@ -1,5 +1,5 @@
-# signifyd-project
-Python program to read a file of client transactions and trace purchase history for fraud. 
+# fraud-tracer-ipynb
+Jupyter Notebook `.ipynb` to read a file of client transactions and trace purchase history for fraud. 
 
 This code can scale for much larger inputs with minimal refactoring.
 
